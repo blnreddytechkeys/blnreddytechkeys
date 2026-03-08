@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @blnreddytechkeys
-- 👀 I’m interested in programming and training...
-- 🌱 I’m currently consantrating devops
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me blnreddy6@hotmail.com
+### 👋 Hi, I'm B L Narsimha Reddy
 
-<!---
-blnreddytechkeys/blnreddytechkeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Software Engineer with **8+ years of experience** in building enterprise applications using **ASP.NET Core, C#, SQL Server, and Azure**.
+
+💡 I specialize in:
+
+* Backend API Development
+* Microservices Architecture
+* Cloud-based applications on Azure
+* Clean Architecture and SOLID principles
+
+🚀 Currently exploring:
+
+* Azure Functions
+* Microservices architecture
+* Cloud-native application development
+
+📫 Reach me at: **[blnreddy6@gmail.com](mailto:blnreddy6@hotmail.com)**
