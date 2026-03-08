@@ -15,4 +15,4 @@ Senior Software Engineer with **8+ years of experience** in building enterprise 
 * Microservices architecture
 * Cloud-native application development
 
-📫 Reach me at: **[blnreddy6@gmail.com](mailto:blnreddy6@hotmail.com)**
+📫 Reach me at: **[blnreddy6@hotmail.com](mailto:blnreddy6@hotmail.com)**
